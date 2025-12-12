@@ -1,50 +1,89 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=playfair+display&size=30&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Heyyy!+What%E2%80%99s+up%3F...;I%E2%80%99m+KEVIN%E2%80%A6+XD;IM+VOMITING+RN+XD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=1000&color=F70000&background=FFFFFF00&width=600&lines=Heyyy!+What's+uppp%3F...;I'm+KEVIN+XD;IM+VIBING+AND+CODING+ON+MY+PHONE+RN+LMAO)](https://git.io/typing-svg)
 
-## 👋 Hi, I’m kevin 👀 I’m interested in C++ programming, especially in game development and software optimization.
+#hiiii I’m **kevin**
+I’m deeply (and sexually 😭) interested in **C++/C programming**.  
+idk why but C/C++ hits my brain like dopaminee… 
+*c++ makes my heart and cpu overheat ngl and it also makes me so hard*
 
-## Pronouns
--**they/them**
+---
 
-##  🕶️ Skills
+##PrOnouns
+**HE / HIM**
 
--**C#:** Developing tools and extensions for game development.
+---
 
--**MySQL:** Experienced in managing databases, writing SQL queries, and creating robust data driven solutions for web and application development. Proficient in designing efficient schemas, handling complex joins, and optimizing database performance.
+#my sssskills (umm yeah…)
 
--**pawn:** Skilled in creating and optimizing SA-MP server scripts.
+### **C#:**  
+NOM NOM NOM I LOVE THIS SYNTAX.  
+looks cute. works cute. smells kinda stinky but still cute.  
+I use C# for lil tools and game stuff..
 
--**C++:** Proficient in developing performance-critical systems and game mechanics.
+### **MySQL:**  
+NOM. NOM. NOM.  
+I’m good at this shiiiittt 
+yessir ik EVERYTHINGG ABT MYSQLL 😭
 
--**Lua:** Experienced in scripting for game development, managing in game logic.
+### **pawn:**  
+experienced IN PAWNN SM.
 
--**C:** Proficient in low-level programming for performance optimization and systems development.
+### **C++:**  
+AHHHHHHHHHHHHHHHHHHHHHH  
+my one true love :)...  
+my wifeee.. my gf... my bf.. my dad...uh not my dad buttttt. my everything.  ..
+**C++ FOREVER AND EVER AND EVER.**  
+experienced + addicted + i even goon to it
 
--**Java:** Versatile in backend development, mobile apps, and scalable systems.
+### **Lua:**  
+simple. cute...
+used it to make SAMP exploits before 😭  
+syntax kinda meh but it does the job tbh..
 
--**JavaScript:** Skilled in creating dynamic web applications and integrating APIs.
+### **C:**  
+C IS MY PERSONAL WRK BROOOO... 
+writing code in C feels like hitting a server with 10000 requests straight into my heart LIKE A REAL WRK  
+low-level stuff makes me hard ngl..
 
--**Python:** Expert in automation, data analysis, and web development.
+### **Java:**  
+love it,. still use it, but C/C++ IS MY EVERYTHING :).
 
+### **JavaScript:**  
+experienced but sometimes I get bored of its goofy syntax.
 
+### **Python:**  
+experienced as hell.
+easy… too easy… but I still love it.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)   
+---
 
-## 🌐 Socials
+#SHOW OFF (HHEHE)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
+# 🌐 Socials
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/toga_shiiii)
 
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/891329816001916998)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/891329816001916998)
 
-## ⚡ Fun fact
- -**The first computer virus was created for fun ... it was called "Creeper" and it would display the message "I'm the creeper, catch me if you can!"**
- 
- ## 💞️ I’m looking to collaborate on open-source projects, SA-MP scripts, and game development initiatives.
- 
- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=togashi666&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=togashi666&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=togashi666&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!---
-TOGASHI666/TOGASHI666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# Collaboration?
+I’m down to collab on literally ANYTHING:
+
+- low-level stuff  
+- high-level stuff  
+- network stuff  
+- kernel-ish stuff    
+
+ill help with ANY code,..
+let’s make it EVEN MORE worse together 🤝
