@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=1000&color=F70000&background=FFFFFF00&width=600&lines=Heyyy!+What's+uppp%3F...;I'm+KEVIN+XD;IM+VIBING+AND+CODING+ON+MY+PHONE+RN+LMAO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=1000&color=F70000&background=FFFFFF00&width=600&lines=Heyyy!+What's+uppp%3F...;I'm+KEVIN+XD;GOOOONINGGG)](https://git.io/typing-svg)
 
 #hiiii I’m **kevin**
 I’m deeply (and sexually 😭) interested in **C++/C programming**.  
