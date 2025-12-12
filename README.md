@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=playfair+display&size=30&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Heyyy!+What%E2%80%99s+up%3F...;I%E2%80%99m+Yuuta+Togashi%E2%80%A6+XD;IM+VOMITING+RN+XD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=playfair+display&size=30&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Heyyy!+What%E2%80%99s+up%3F...;I%E2%80%99m+KEVIN%E2%80%A6+XD;IM+VOMITING+RN+XD)](https://git.io/typing-svg)
 
-## 👋 Hi, I’m Yuuta Togashi 👀 I’m interested in C++ programming, especially in game development and software optimization.
+## 👋 Hi, I’m kevin 👀 I’m interested in C++ programming, especially in game development and software optimization.
 
 ## Pronouns
 -**they/them**
