@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&pause=1000&color=F70000&background=FFFFFF00&width=600&lines=Heyyy!+What's+uppp%3F...;I'm+KEVIN+XD;GOOOONINGGG)](https://git.io/typing-svg)
 
 #hiiii I’m **kevin**
-I’m deeply (and sexually 😭) interested in **C++/C programming**.  
+I’m deeply and sexually interested in **C++/C programming**.  
 idk why but C/C++ hits my brain like dopaminee… 
-*c++ makes my heart and cpu overheat ngl and it also makes me so hard*
+*c++  also makes me so hard*
 
 ---
 
@@ -12,7 +12,7 @@ idk why but C/C++ hits my brain like dopaminee…
 
 ---
 
-#my sssskills (umm yeah…)
+#my skills
 
 ### **C#:**  
 NOM NOM NOM I LOVE THIS SYNTAX.  
@@ -36,7 +36,7 @@ experienced + addicted + i even goon to it
 
 ### **Lua:**  
 simple. cute...
-used it to make SAMP exploits before 😭  
+used it to make SAMP exploits before 
 syntax kinda meh but it does the job tbh..
 
 ### **C:**  
